@@ -1,9 +1,14 @@
-# Class Component and State Part 2
+🔍 Searchable Users List Application
 
-- Searchable Users List
-  - Searching User
-  - Deleting User
-- setState() 
-  - Object Syntax
-- Components
-  - Passing Callbacks
+A simple and interactive React-based application that displays a list of users.
+Users can be filtered dynamically by typing in the search input field, and removed individually by clicking the ❌ button.
+
+✅ Features
+
+Real-time user filtering based on search input
+
+Remove users from the list by clicking the ❌ button
+
+Simple and intuitive user interface
+
+This project demonstrates working with React state management, handling user interactions, and implementing dynamic list updates.
